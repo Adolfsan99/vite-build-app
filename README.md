@@ -12,7 +12,7 @@ para esto puedes usar " CTRL + Ñ " En teclados españoles " CTRL + ` " En tecla
 #### Ejecuta los siguientes comandos en consola:
 
 * npm init vite@latest
-* NombreDelProyecto
-* cd NombreDelProyecto
+* vite-project
+* cd vite-project
 * npm i
 * npm run dev
